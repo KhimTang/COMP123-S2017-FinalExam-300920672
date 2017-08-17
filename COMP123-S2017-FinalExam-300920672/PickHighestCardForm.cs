@@ -29,6 +29,8 @@ namespace COMP123_S2017_FinalExam_300920672
         Deck _deck;
         Hand _hand;
         int _maximumPoints;
+        TextBox _scoreboard;
+
 
         // PUBLIC PROPERTIES +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         public List<PictureBox> DealtCardPictureBoxList
@@ -398,4 +400,6 @@ namespace COMP123_S2017_FinalExam_300920672
             Application.Exit();
         }
     }
+    
+    
 }
