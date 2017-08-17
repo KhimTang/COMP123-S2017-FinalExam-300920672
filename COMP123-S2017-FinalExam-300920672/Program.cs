@@ -24,7 +24,7 @@ namespace COMP123_S2017_FinalExam_300920672
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PickHighestCardForm());
+            Application.Run(new SplashForm());
         }
     }
 }

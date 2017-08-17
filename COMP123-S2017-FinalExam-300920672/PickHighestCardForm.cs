@@ -11,12 +11,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
- * Description:
- * Version:
- */
+ * Name: Khim Tang
+ * StudentID: 300920672
+ * Date: August 02. 2017
+ * Description: Demo Application to showcase windows forms and UI Controls
+ * Version: 0.1 - Project was Created
+*/
 
 namespace COMP123_S2017_FinalExam_300920672
 {
